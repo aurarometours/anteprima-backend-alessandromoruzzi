@@ -1,0 +1,17 @@
+A.M STUDIO — Pannello di gestione del sito
+
+Come aprirlo
+1. Estrai la cartella dallo ZIP.
+2. Apri il file index.html con Chrome, Safari o Edge.
+3. Clicca «Accedi».
+
+Cosa provare
+- Panoramica: visitatori, richieste, attività e progetto in evidenza.
+- Progetti: apri una serie, riordina le foto trascinandole, caricane di nuove.
+- Homepage e Identità visiva: cambia apertura, sezioni, caratteri e colori con anteprima dal vivo.
+- Richieste: trascina le schede tra le colonne, apri una richiesta e prepara la risposta.
+- Pubblica: confronta prima/dopo e metti online le modifiche.
+- Ctrl K (⌘ K su Mac) per cercare ovunque. Icona luna per il tema scuro.
+
+Le modifiche restano salvate in questo browser.
+Impostazioni → Ripristina riporta tutto allo stato iniziale.
